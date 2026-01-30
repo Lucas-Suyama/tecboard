@@ -2,6 +2,9 @@
 
 Aplicativo desenvolvido durante um curso da Alura para praticar os fundamentos do React com Vite. O TecBoard organiza eventos de tecnologia em um layout moderno, com temas personalizados, formulários interativos e renderização condicional de conteúdo.
 
+## Demonstração Online
+- Acesse a versão publicada: https://tecboard.vercel.app/
+
 ## 1. Conceitos Fundamentais do React e Paradigmas
 - Bibliotecas declarativas descrevem “o que” deve ser exibido; o React transforma a descrição em UI real.
 - Imperativo foca em “como” fazer passo a passo (manipulação direta do DOM). Declarativo foca no estado e na saída esperada.
